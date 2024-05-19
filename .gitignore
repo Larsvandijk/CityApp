@@ -34,3 +34,4 @@ build/
 
 # Ignore the CityData.csv file
 CityData.csv
+CityDate_cleaned.csv
