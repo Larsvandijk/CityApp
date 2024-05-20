@@ -1,0 +1,16 @@
+Data that will be shown per city:
+
+Wheather - 7 day forecast
+
+Tourist attractions
+
+Currency
+
+Place on the map -> use coordinates to show
+
+City data:
+- Population count
+- Country
+- Surface km2
+- Timezone
+- 
